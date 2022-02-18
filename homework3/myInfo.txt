@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Nikolas Georgaklis 02445 1-800-000-000 VUID
+=======
+Nikolas Georgaklis 02445 1-800-000-000
+>>>>>>> 8d1ae064116f40a956a481742fd556ce0f773b5f
